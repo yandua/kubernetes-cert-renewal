@@ -8,10 +8,11 @@ Update clusterinfo.csv with information about your cluster:
  * information about in workers row is used to generate worker-specific kubelet certificate and, in future, during certificate distribution
  * information about controllers will be eventually used during certificate distribution process
 
-Usage: 
-'''
+Usage:
+```
+
 python3 cert-renewal.py
-'''
+``` 
 
 
 Future work - automated csr creation, certificate distribution, automated service restart
