@@ -1,0 +1,9 @@
+Role,Hostname,IP
+hostnames,,"backabohome.dnsalias.com,kubernetes,kubernetes.default,kubernetes.default.svc,kubernetes.default.svc.cluster,kubernetes.svc.cluster.local,kubernetes.svc.homelab.local,homelab,kubernetes.svc.homelab,kubernetes.svc.homelab.cluster"
+addresses,,"10.32.0.1,10.10.10.107,10.10.10.108,10.10.10.109,10.10.10.105,10.10.10.5,77.53.221.11,127.0.0.1"
+worker,worker41,10.10.10.131
+worker,worker42,10.10.10.132
+worker,worker43,10.10.10.133
+controller,controller41,10.10.10.107
+controller,controller42,10.10.10.108
+controller,controller43,10.10.10.109
